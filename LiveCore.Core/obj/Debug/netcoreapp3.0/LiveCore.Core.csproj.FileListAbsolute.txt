@@ -1,0 +1,8 @@
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\bin\Debug\netcoreapp3.0\LiveCore.Core.deps.json
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\bin\Debug\netcoreapp3.0\LiveCore.Core.dll
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\bin\Debug\netcoreapp3.0\LiveCore.Core.pdb
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\obj\Debug\netcoreapp3.0\LiveCore.Core.csprojAssemblyReference.cache
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\obj\Debug\netcoreapp3.0\LiveCore.Core.AssemblyInfoInputs.cache
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\obj\Debug\netcoreapp3.0\LiveCore.Core.AssemblyInfo.cs
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\obj\Debug\netcoreapp3.0\LiveCore.Core.dll
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Core\obj\Debug\netcoreapp3.0\LiveCore.Core.pdb

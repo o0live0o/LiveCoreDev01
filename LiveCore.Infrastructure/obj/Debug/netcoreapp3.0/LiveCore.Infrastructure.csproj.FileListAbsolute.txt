@@ -1,0 +1,13 @@
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Infrastructure.deps.json
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Infrastructure.dll
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Infrastructure.pdb
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Core.dll
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Core.pdb
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\obj\Debug\netcoreapp3.0\LiveCore.Infrastructure.csprojAssemblyReference.cache
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\obj\Debug\netcoreapp3.0\LiveCore.Infrastructure.AssemblyInfoInputs.cache
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\obj\Debug\netcoreapp3.0\LiveCore.Infrastructure.AssemblyInfo.cs
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\obj\Debug\netcoreapp3.0\LiveCore.Infrastructure.csproj.CopyComplete
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\obj\Debug\netcoreapp3.0\LiveCore.Infrastructure.dll
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\obj\Debug\netcoreapp3.0\LiveCore.Infrastructure.pdb
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Infrastructure.runtimeconfig.json
+D:\xCode\CSharp\LiveCoreApi\LiveCore.Infrastructure\bin\Debug\netcoreapp3.0\LiveCore.Infrastructure.runtimeconfig.dev.json

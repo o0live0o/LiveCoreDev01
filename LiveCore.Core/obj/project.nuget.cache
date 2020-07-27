@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkOOZ1LslxBuvTbchvV5lG7DDEXMaM6gjM9Eu7aswkdNeTeHhotpjDbYfSCdwbqlkKunYtGEvqM4Akyh+N5lvQ==",
+  "success": true,
+  "projectFilePath": "D:\\xCode\\CSharp\\LiveCoreApi-dev01\\LiveCore.Core\\LiveCore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\live0x\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\live0x\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\live0x\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

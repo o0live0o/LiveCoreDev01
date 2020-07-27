@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LiveCore.Core/1.0.0": {
+        "runtime": {
+          "LiveCore.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiveCore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
